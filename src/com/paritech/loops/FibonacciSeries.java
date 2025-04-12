@@ -28,7 +28,7 @@ public class FibonacciSeries {
 		}
 //		=======================================================
 		
-//		2. generate fibonacci numbers upto a given number
+//		2. generate fibonacci numbers up to a given number
 
 		System.out.println("Enter a limit upto which you want fibonacci numbers : ");
 		int limit = sc.nextInt();

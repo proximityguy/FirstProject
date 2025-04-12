@@ -10,9 +10,9 @@ public class Factorials {
 		Scanner sc = new Scanner(System.in);
 //		======================================
 		
-		System.out.println("Enter a number to find its factorials : ");
+		System.out.println("Enter a positive number to find its factorials : ");
 		int number = sc.nextInt();
-		int factorial = 1;
+		long factorial = 1;
 		
 		System.out.println("Factorial : ");
 		if(number == 0 || number == 1) {

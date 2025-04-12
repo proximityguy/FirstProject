@@ -25,7 +25,7 @@ public class Polindromes {
 //		========================================
 		
 //		2.	print 'n' palindrome numbers of 'm' digits
-//		3.	print palindrome numbers between given limits
+//		3.	print all palindrome numbers between given limits
 	}
 
 }
