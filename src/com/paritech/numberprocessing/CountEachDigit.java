@@ -1,4 +1,4 @@
-package com.paritech.numberprocessing;
+ package com.paritech.numberprocessing;
 
 public class CountEachDigit {
 
